@@ -28,6 +28,8 @@ Git clone
 
 HTML Github Javascript Support and contact details
 
-github.com/sammygithaiga License
+## License
+
+github.com/sammygithaiga 
 
 The content of this site is licensed under the MIT license Copyright (c) 2024.
