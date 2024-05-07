@@ -16,11 +16,11 @@ Implement adding new transactions.
 Add robots.
 Allow removing robots.
 
-Installation
+## Installation
 
 You use git clone to be able to download the documents in the GitHub Installation Requirements
 
-Git Installation instruction
+## Git Installation instruction
 
 Git clone 
 
