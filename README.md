@@ -18,7 +18,7 @@ You use git clone to be able to download the documents in the GitHub Installatio
 
 Git Installation instruction
 
-Git clone https://github.com/hydrogenbond68/The-Royal-Bank-of-Flatiron.git
+Git clone 
 
 Technologies used
 
