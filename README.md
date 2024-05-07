@@ -3,7 +3,7 @@ Phase 2 WK2 Code Challenge Date, 02/05/2024 By Samuel Githaiga Live Demo
 
 Check The Project Right Here() Description
 
-The  is a web app for tracking financial transactions. It offers features like viewing transactions in a table, adding new ones, and filtering by keywords. Users can also sort transactions alphabetically by category or description.
+The  is a web app for robots that allows you to view them and remove them. It offers features like viewing transactions in a table, adding new ones, and filtering by keywords. Users can also sort transactions alphabetically by category or description.
 
 Objective
 
