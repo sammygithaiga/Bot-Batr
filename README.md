@@ -24,7 +24,7 @@ You use git clone to be able to download the documents in the GitHub Installatio
 
 Git clone 
 
-Technologies used
+## Technologies used
 
 HTML Github Javascript Support and contact details
 
