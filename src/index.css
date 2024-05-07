@@ -1,0 +1,140 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;600&display=swap');
+
+/* Global styles */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Header */
+header{
+    display: flex;
+    align-items: center;
+    padding: 10px 120px;
+    gap: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+header img{
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+}
+header h2{
+    font-size: 1.5rem;
+    font-family: 'Protest Revolution', sans-serif;
+    text-transform: capitalize;
+    color: #2d2e2e;
+}
+
+/* Bot Army */
+.army_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.army_container h1 {
+    font-size: 2.5rem;
+    color: #2d2e2e;
+    font-family: 'Protest Revolution', sans-serif;
+}
+.army_container img {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+}
+.army_content{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px 80px;
+
+}
+.bot_army{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+/* Bot Collection */
+.bot_container h1, .bot_container p{
+    text-align: center;
+    margin-top: 10px;
+}
+.bot_container h1{
+    font-size: 2.5rem;
+    color: #2d2e2e;
+    font-family: 'Protest Revolution', sans-serif;
+}
+.bot_container p{
+    font-size: 1rem;
+    color: #2d2e2e;
+    font-weight: 400;
+}
+.bot_collection{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px 80px;
+}
+
+/* Bot Card */
+.bot_card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.bot_card img {
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+    border-radius: 5px;
+}
+
+.bot_card h2 {
+    font-size: 1.2rem;
+    color: #333;
+    margin: 10px 0;
+}
+.bot_card h2 span{
+    font-family: 'Protest Revolution', sans-serif;
+    font-size: 1.1rem;
+    color: #333;
+    margin: 10px 0;
+}
+
+.bot_card h3 {
+    font-size: 1rem;
+    color: #777;
+    margin: 5px 0;
+}
+.delete-button {
+    background-color: red;
+    color: white;
+    padding: 3px 9px;
+    border: none;
+    border-radius: 10px;
+}
