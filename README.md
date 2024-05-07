@@ -23,6 +23,6 @@ Technologies used
 
 HTML Github Javascript Support and contact details
 
-github.com/hydrogenbond68 License
+github.com/sammygithaiga License
 
 The content of this site is licensed under the MIT license Copyright (c) 2024.
