@@ -11,8 +11,8 @@ Check The Project Right Here()
 The  is a web app for robots that allows you to view them and remove them. It offers features like viewing the robots and also removing or rather deliting them, adding new ones, and filtering by keywords. Users can also 
 ## Objective
 
-Display a table of transactions.
-Implement a form for adding new transactions.
+Display robots.
+Implement adding new transactions.
 Add functionality to filter transactions by description using a search bar.
 Allow sorting of transactions alphabetically by category or description.
 
