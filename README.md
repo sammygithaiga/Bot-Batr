@@ -1,10 +1,15 @@
-# Bot Batttlr
-Phase 2 WK2 Code Challenge Date, 02/05/2024 By Samuel Githaiga Live Demo
+# Bot Batlr
+Phase 2 WK2 Code Challenge 
+## Date,
+ 02/05/2024 
+## By
+ Samuel Githaiga Live Demo
 
-Check The Project Right Here() Description
+Check The Project Right Here() 
+## Description
 
 The  is a web app for robots that allows you to view them and remove them. It offers features like viewing the robots and also removing or rather deliting them, adding new ones, and filtering by keywords. Users can also 
-Objective
+## Objective
 
 Display a table of transactions.
 Implement a form for adding new transactions.
