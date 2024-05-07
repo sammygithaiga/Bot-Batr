@@ -18,7 +18,7 @@ Allow removing robots.
 
 ## Installation
 
-You use git clone to be able to download the documents in the GitHub Installation Requirements
+You use git  clone to be able to download the documents in the GitHub Installation Requirements
 
 ## Git Installation instruction
 
