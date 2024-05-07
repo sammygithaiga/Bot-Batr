@@ -13,8 +13,8 @@ The  is a web app for robots that allows you to view them and remove them. It of
 
 Display robots.
 Implement adding new transactions.
-Add functionality to filter transactions by description using a search bar.
-Allow sorting of transactions alphabetically by category or description.
+Add robots.
+Allow removing robots.
 
 Installation
 
