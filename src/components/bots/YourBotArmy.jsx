@@ -1,4 +1,4 @@
-import army from "../../assets/army.png";
+import army from "../../assets/bot-1.png";
 import { BotCard } from "./BotCard";
 
 export const YourBotArmy = ({ recruitedBots, setRecruitedBots }) => {

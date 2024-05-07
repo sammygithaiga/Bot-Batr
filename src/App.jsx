@@ -1,7 +1,8 @@
 import { useState } from "react";
-import { BotCollection } from "./pages/bots/BotCollection"
-import { Navbar } from "./pages/navbar/Navbar"
-import { YourBotArmy } from "./pages/bots/YourBotArmy";
+import { BotCollection } from "./components/bots/BotCollection"
+import { Navbar } from "./components/navbar/Navbar"
+
+import {YourBotArmy} from "./components/bots/YourBotArmy"
 
 function App() {
   const [recruitedBots, setRecruitedBots] = useState([])
@@ -21,11 +22,12 @@ function App() {
 
 
   return (
-    <>
+    <div>
     <Navbar />
     <YourBotArmy recruitedBots={recruitedBots} dismissBot={dismissBot}/>
     <BotCollection recruitBot={recruitBot}/>
-    </>
+
+    </div>
   )
 }
 
